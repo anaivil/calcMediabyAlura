@@ -1,4 +1,4 @@
-# Calculadora de Médias by Imersão Dev
+# Calculadora de Médias by Imersão Dev :heavy_division_sign:
 
 **Desafios da aula**
 
