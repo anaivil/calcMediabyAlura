@@ -16,4 +16,4 @@ Realizar a imersão tem agregado muito conhecimento, consigo colocar em prática
 
 ## Linguagens
 
-https://img.shields.io/badge/-HTML-%2322272E?style=for-the-badge&logo=html5 | https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3 | https://img.shields.io/badge/-JavaScript-%2322272E?style=for-the-badge&logo=javascript
+!(https://img.shields.io/badge/-HTML-%2322272E?style=for-the-badge&logo=html5) | !(https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3) | !(https://img.shields.io/badge/-JavaScript-%2322272E?style=for-the-badge&logo=javascript)
