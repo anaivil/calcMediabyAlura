@@ -4,11 +4,15 @@
 
 **Desafios da aula**
 
-• *Dependendo da nota, mostrar se a aluna ou aluno foi aprovada(o) ou não :white_check_mark:
-• *Alterar o fundo da tela da maneira que achar mais legal :white_check_mark:
-• *Imprimir na própria página o resultado, ao invés do console :white_check_mark:
-• *Colocar a conta inteira da média em apenas uma linha :x:
-• *Criar um conversor de temperaturas entre farenheit e celcius -> Projeto em novo repositório.
+• Dependendo da nota, mostrar se a aluna ou aluno foi aprovada(o) ou não :white_check_mark:  
+
+• Alterar o fundo da tela da maneira que achar mais legal :white_check_mark:  
+
+• Imprimir na própria página o resultado, ao invés do console :white_check_mark:  
+
+• Colocar a conta inteira da média em apenas uma linha :x:  
+
+• Criar um conversor de temperaturas entre farenheit e celcius -> Projeto em novo repositório.
 
 ## Minha experiência
 
