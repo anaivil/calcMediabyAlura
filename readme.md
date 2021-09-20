@@ -1,6 +1,4 @@
-# Calculadora de Médias
-
-## by Imersão Dev
+# Calculadora de Médias## by Imersão Dev
 
 **Desafios da aula**
 
