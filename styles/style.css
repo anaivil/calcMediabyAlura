@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+}
+
+.calcImg {
+  width: 50vw;
+  height: 100vh;
+  background: #0b0014;
+}
+
+.container {
+  width: 50vw;
+  height: 100vh;
+  color: #f7f0f0;
+  background: #0b0014;
+}
+
+.page-logo {
+  object-fit: fill;
+  width: 15vw;
+  height: 5vh;
+}
+
+.page-logo img {
+  width: 100%;
+}
+
+.title {
+  margin-top: 3em;
+}
+
+.description {
+  margin-bottom: 25px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 100vw;
+  height: 100vh;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+  margin: 30px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: #0b0014;
+  background: #fada06;
+  border-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  color: #0b0014;
+  background: #cd5f20;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+  color: #f7f0f0;
+  background: #0b0014;
+  text-align: center;
+  border-style: none;
+  border-bottom: 2px solid #fada06;
+}
+
+input::placeholder {
+  color: #f7f0f0;
+}
+
+input:hover {
+  border-bottom: 2px solid #cd5f20;
+}
+
+@media (max-width: 768px) {
+  .title {
+    margin: 10px;
+  }
+}
