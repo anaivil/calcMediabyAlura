@@ -10,12 +10,10 @@ function CalcMedia() {
 
   var foiAprovado =
     media >= 5
-      ? alert('Parabéns, sua média foi maior que 5 e você foi aprovado(a)!')
+      ? alert('Parabéns, sua média foi maior ou igual a 5 e você foi aprovado(a)!')
       : alert('Infelizmente você não atingiu média 5 e foi reprovado(a).')
   console.log(foiAprovado)
 }
-
-merdia >= 5 ? alert('Você froi aprovado') : alert('Você foi reprovado')
 
 function ResetInput() {
   ;(document.getElementById('notaUm').value = ''),
