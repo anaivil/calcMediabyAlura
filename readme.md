@@ -1,4 +1,4 @@
-<h1> Calculadora de Médias by Imersão Dev </h1>
+<h1> Calculadora de Média by Imersão Dev </h1>
 
 **Desafios da aula**
 <ul>
